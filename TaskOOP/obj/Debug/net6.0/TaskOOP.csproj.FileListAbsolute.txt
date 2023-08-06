@@ -1,0 +1,15 @@
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\bin\Debug\net6.0\TaskOOP.exe
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\bin\Debug\net6.0\TaskOOP.deps.json
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\bin\Debug\net6.0\TaskOOP.runtimeconfig.json
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\bin\Debug\net6.0\TaskOOP.dll
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\bin\Debug\net6.0\TaskOOP.pdb
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\obj\Debug\net6.0\TaskOOP.csproj.AssemblyReference.cache
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\obj\Debug\net6.0\TaskOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\obj\Debug\net6.0\TaskOOP.AssemblyInfoInputs.cache
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\obj\Debug\net6.0\TaskOOP.AssemblyInfo.cs
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\obj\Debug\net6.0\TaskOOP.csproj.CoreCompileInputs.cache
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\obj\Debug\net6.0\TaskOOP.dll
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\obj\Debug\net6.0\refint\TaskOOP.dll
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\obj\Debug\net6.0\TaskOOP.pdb
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\obj\Debug\net6.0\TaskOOP.genruntimeconfig.cache
+C:\Users\HopSee\Desktop\.NET\TaskOOP\TaskOOP\obj\Debug\net6.0\ref\TaskOOP.dll
